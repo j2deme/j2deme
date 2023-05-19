@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaime Jesús Delgado Meraz</h1>
 <h3 align="center">A developer from México</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **FilamentPHP**
 
 - 💬 Ask me about **PHP, Laravel, Java**
 
